@@ -5,7 +5,7 @@ from src.screens.teacher_screen import teacher_screen
 from src.screens.student_screen import student_screen
 from src.components.dialog_auto_enroll import auto_enroll_dialog
 def main():
-    st.set_option("client.toolbarMode", "minimal")
+    st.set_option("client.toolbarMode", "viewer")
     st.set_page_config(
     page_title='SnapClass - Making Attendance faster using AI',
     page_icon='https://i.ibb.co/TYGN5qV/logo.png'
