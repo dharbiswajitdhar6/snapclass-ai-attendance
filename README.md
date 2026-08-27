@@ -52,6 +52,7 @@ src/
 
 app.py
 requirements.txt
+```
 
 ## 🔗 Related Project
 
