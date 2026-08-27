@@ -53,6 +53,13 @@ src/
 app.py
 requirements.txt
 ```
+## 🚀 Live Demo
+
+Try the deployed SnapClass AI Attendance System:
+
+👉 **[Open SnapClass AI Attendance](https://snapclass-ai-attendance-ap.streamlit.app/)**
+
+> The live demo allows you to explore the student and teacher attendance workflow, including Face Recognition, Voice Recognition, and QR-based course enrollment.
 
 ## 🔗 Related Project
 
