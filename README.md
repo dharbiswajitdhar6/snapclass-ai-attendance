@@ -52,3 +52,12 @@ src/
 
 app.py
 requirements.txt
+
+## 🔗 Related Project
+
+**SnapClass Landing Page:**  
+https://github.com/dharbiswajitdhar6/snapclass-landing-page
+
+## 👨‍💻 Author
+
+Biswajit Dhar
